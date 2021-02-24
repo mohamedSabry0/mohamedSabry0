@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedSabry0)](https://github.com/anuraghazra/github-readme-stats)
+
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=mohamedSabry0&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
