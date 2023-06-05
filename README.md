@@ -13,6 +13,11 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">  
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=mohamedSabry0&margin-w=90&title=-MultiLanguage,AllSuperRank,LongTimeUser,Organizations,Stars,Commits,Followers,Issues,PullRequest,Repositories" />
   </a>
+ 
+  </br></br>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=mohamedSabry0&label=Profile%20Views&color=1&icon=2&pretty=true" />
+  </a>
   
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img alt="Mohamed's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mohamedSabry0&bg_color=fff&point=30a14e&line=9be9a8&color=000&hide_title=true"/>
