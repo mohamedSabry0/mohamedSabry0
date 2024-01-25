@@ -5,6 +5,8 @@
   </a>
 </div>
 
+<a href="https://wakatime.com/@43021e40-8fa2-4d57-9c23-1f7d92109eca"><img src="https://wakatime.com/badge/user/43021e40-8fa2-4d57-9c23-1f7d92109eca.svg" alt="Total time coded since May 31 2023" /></a>
+
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedSabry0&layout=compact&langs_count=6"/>
