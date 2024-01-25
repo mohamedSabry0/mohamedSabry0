@@ -5,7 +5,6 @@
   </a>
 </div>
 
-<a href="https://wakatime.com/@43021e40-8fa2-4d57-9c23-1f7d92109eca"><img src="https://wakatime.com/badge/user/43021e40-8fa2-4d57-9c23-1f7d92109eca.svg" alt="Total time coded since May 31 2023" /></a>
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -22,6 +21,7 @@
   </a>
  
   </br></br>
+<a href="https://wakatime.com/@43021e40-8fa2-4d57-9c23-1f7d92109eca"><img src="https://wakatime.com/badge/user/43021e40-8fa2-4d57-9c23-1f7d92109eca.svg" alt="Total time coded since May 31 2023" /></a>
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=mohamedSabry0&label=Profile%20Views&color=1&icon=2&pretty=true" />
   </a>
