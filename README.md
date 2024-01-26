@@ -1,12 +1,12 @@
 ### Hi there 👋
-<div style="display: flex;justify-content: center;">
+<div align="center">
   <a href="https://github.com/mohamedSabry0/">  
     <img alt="logo" align="center" src="https://github.com/mohamedSabry0/mohamedSabry0/assets/22299539/b580e946-d7db-4671-b66d-177a500740fa" />
   </a>
 </div>
 
 
-<div>
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedSabry0&layout=compact&langs_count=6"/>
   </a>
@@ -16,17 +16,18 @@
   </a>
   
   </br>
+  </br>
   <a href="https://github.com/ryo-ma/github-profile-trophy">  
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=mohamedSabry0&margin-w=90&title=-MultiLanguage,AllSuperRank,LongTimeUser,Organizations,Stars,Commits,Followers,Issues,PullRequest,Repositories" />
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=mohamedSabry0&margin-w=80&title=AllSuperRank,LongTimeUser,Organizations,Stars,Commits,Followers,Issues,PullRequest" />
   </a>
  
   </br></br>
-<a href="https://wakatime.com/@43021e40-8fa2-4d57-9c23-1f7d92109eca"><img src="https://wakatime.com/badge/user/43021e40-8fa2-4d57-9c23-1f7d92109eca.svg" alt="Total time coded since May 31 2023" /></a>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=mohamedSabry0&label=Profile%20Views&color=1&icon=2&pretty=true" />
-  </a>
-  
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Mohamed's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mohamedSabry0&bg_color=fff&point=30a14e&line=9be9a8&color=000&hide_title=true"/>
-  </a>
+
+  <a href="https://wakatime.com/@43021e40-8fa2-4d57-9c23-1f7d92109eca"><img src="https://wakatime.com/badge/user/43021e40-8fa2-4d57-9c23-1f7d92109eca.svg" alt="Total time coded since May 31 2023" /></a>
+    <a href="https://visitcount.itsvg.in">
+      <img src="https://visitcount.itsvg.in/api?id=mohamedSabry0&label=Profile%20Views&color=1&icon=2&pretty=true" />
+    </a>
+
+
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mohamedSabry0&theme=onedark" alt="GitHub Streak" /></a>
 </div>
