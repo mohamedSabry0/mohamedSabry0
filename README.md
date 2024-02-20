@@ -4,7 +4,11 @@
     <img alt="logo" align="center" src="https://github.com/mohamedSabry0/mohamedSabry0/assets/22299539/b580e946-d7db-4671-b66d-177a500740fa" />
   </a>
 </div>
-
+<div align="center">
+  <p>
+    I'm Mohamed Sabri, and I've been a full stack developer for about 2.5 years. I would love to work in an environment where I can deepen and build upon my expertise in software development, along with great teammates and managers.
+Further down the road, I am passionate about becoming a senior developer, responsible for sustaining a friendly and productive team environment, capable of having my team’s trust suggesting significant factors for scaling software applications into serving multi-billion user bases
+  </p>
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
